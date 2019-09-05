@@ -1,0 +1,36 @@
+#loginForm { 
+    position: absolute; 
+    top: 30%;
+    left: 10%;
+    margin: 0 auto;
+    width: 80%;
+}
+
+#loginInput {
+    border: solid blueviolet 3px;
+    padding: 10px; 
+    width: 100%; 
+    margin-right: .5%; 
+    text-align: center;
+}
+
+#chatForm {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
+#chatInput {
+    border: 5px black solid;
+    width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+#channels {
+    width: 100%;
+    border: black 2px solid;
+    margin-left: 50px;
+}

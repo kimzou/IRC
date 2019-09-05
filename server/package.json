@@ -1,0 +1,16 @@
+{
+  "name": "IRC",
+  "version": "1.0.0",
+  "description": "IRC server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon inex.js"
+  },
+  "author": "Alexandra NGUYEN",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
